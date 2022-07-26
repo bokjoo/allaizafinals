@@ -1,0 +1,227 @@
+body{
+  background-image: url('bg.png');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-size: 100% 100%;
+}
+h3{
+  position: absolute;
+  top: 5%;
+  left: 2%;
+  text-shadow: 0 0 4px yellow;
+}
+h1{
+  text-align: center;
+  text-shadow: 0 0 4px yellow;
+}
+hr{
+  margin-top: 3em;
+  border-style: inset;
+  border-width: 2px;
+}
+.kpop{
+  position: absolute;
+  top: -4%;
+  left: 87%;
+}
+.pic{
+  position: absolute;
+  top: 20%;
+  left: 15%;
+  border-radius: 30px;;
+}
+.pic1{
+  background: #588bae;
+  color: white;
+  font-size: 20px;
+}
+.pic1:hover{
+  background: #57a0d3;
+}
+.a{
+  position: absolute;
+  display: none;
+  top: 18%;
+  left: 2%;
+}
+.show{
+  position: absolute;
+  top: 20%;
+  left: 33%;
+  border-radius: 10px;
+}
+.show1{
+  background: #588bae;
+  color: white;
+  font-size: 20px;
+}
+.show1:hover{
+  background: #57a0d3;
+}
+.txt{
+  position: absolute;
+  top: 30%;
+  left: 29%;
+}
+.txt h1{
+  left: 12%;
+  text-shadow: 0 0 4px blue;
+}
+.txt pre{
+  position: absolute;
+  text-align: center;
+  right: 4%;
+}
+.sb{
+  position: absolute;
+  left: 4%;
+  bottom: -90%;
+  width: 27%;
+  height: 60%;
+  background-color: #b0dfe5;
+}
+.sb img{
+  position: absolute;
+  left: 23%;
+  top: 20%;
+}
+.sb h2{
+  position: absolute;
+  right: 31%;
+  color: white;
+  text-shadow: 0 0 4px blue;
+}
+.sb pre{
+  position: absolute;
+  top: 70%;
+  right: 16%;
+}
+.yj{
+  position: absolute;
+  left: 37%;
+  bottom: -90%;
+  width: 27%;
+  height: 60%;
+  background-color: #b0dfe5;
+}
+.yj img{
+  position: absolute;
+  left: 23%;
+  top: 20%;
+}
+.yj h2{
+  position: absolute;
+  right: 29%;
+  color: white;
+  text-shadow: 0 0 4px blue;
+}
+.yj pre{
+  position: absolute;
+  top: 70%;
+  right: 16%;
+}
+.bg{
+  position: absolute;
+  left: 70%;
+  bottom: -90%;
+  width: 27%;
+  height: 60%;
+  background-color: #b0dfe5;
+}
+.bg img{
+  position: absolute;
+  left: 23%;
+  top: 20%;
+}
+.bg h2{
+  position: absolute;
+  right: 27%;
+  color: white;
+  text-shadow: 0 0 4px blue;
+}
+.bg pre{
+  position: absolute;
+  top: 70%;
+  right: 16%;
+}
+.th{
+  position: absolute;
+  left: 15%;
+  bottom: -160%;
+  width: 27%;
+  height: 60%;
+  background-color: #b0dfe5;
+}
+.th img{
+  position: absolute;
+  left: 23%;
+  top: 20%;
+}
+.th h2{
+  position: absolute;
+  right: 27%;
+  color: white;
+  text-shadow: 0 0 4px blue;
+}
+.th pre{
+  position: absolute;
+  top: 70%;
+  right: 16%;
+}
+.hk{
+  position: absolute;
+  left: 60%;
+  bottom: -160%;
+  width: 27%;
+  height: 60%;
+  background-color: #b0dfe5;
+}
+.hk img{
+  position: absolute;
+  left: 23%;
+  top: 17%;
+}
+.hk h2{
+  position: absolute;
+  right: 32%;
+  color: white;
+  text-shadow: 0 0 4px blue;
+}
+.hk pre{
+  position: absolute;
+  top: 67%;
+  right: 16%;
+}
+.yt{
+  position: absolute;
+  top: 20%;
+  left: 54%;
+  border-radius: 10px;
+}
+.yt1{
+  background: #588bae;
+  color: aliceblue;
+  font-size: 20px;
+}
+.yt1:hover{
+  background: #57a0d3;
+}
+.color{
+  position: absolute;
+  top: 20%;
+  left: 68%;
+  border-radius: 10px;
+}
+.color1{
+  background: #588bae;
+  color: aliceblue;
+  font-size: 20px;
+}
+.color1:hover{
+  background: #57a0d3;
+}
+.snoopy{
+  position: absolute;
+  left: 85%;
+  bottom: -190%;
+}
